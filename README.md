@@ -2,6 +2,8 @@
 
 A webapp to build your Pokemon dream team with the pokemon of the first generation using the Pokeapi
 
+Check the app in this url: https://imrodriguez.github.io/pokemon-teams-react/
+
 | Home  | Pokemon selection  | Pokemon detail  |
 |---|---|---|
 | ![Home](/screenshots/1.png "Home")  | ![Selection](/screenshots/2.png "Selection")  | ![Detail](/screenshots/3.png "Detail")  |
