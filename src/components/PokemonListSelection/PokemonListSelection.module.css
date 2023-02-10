@@ -1,0 +1,13 @@
+.PokemonListSelectionTitle {
+    font-weight: 600;
+    margin: 1rem 0;
+}
+
+.Search {
+    width: 95%;
+    padding: 1rem .5rem;
+    border-radius: 4px;
+    margin: 1rem auto;
+    border: none;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+}

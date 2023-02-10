@@ -1,0 +1,36 @@
+.PokemonName {
+    text-transform: capitalize;
+    margin: 1rem 0;
+}
+
+.PokemonImage {
+    width: 12rem;
+    aspect-ratio: 1/1;
+    background-color: #999;
+    padding: 1rem;
+    border-radius: 8px;
+}
+
+.Extrainfo {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    text-align: center;
+}
+
+.Extrainfo h2 {
+    margin: 1rem 0;
+}
+
+.Stats canvas {
+    margin: 0 auto;
+    max-width: 500px;
+    max-height: 500px;
+    aspect-ratio: 1/1;
+}
+
+@media only screen and (max-width: 600px) {
+    .Stats canvas {
+        width: 100%;
+    }
+}

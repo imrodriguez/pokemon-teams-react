@@ -1,0 +1,1 @@
+export { GridPokemon } from "./GridPokemon";

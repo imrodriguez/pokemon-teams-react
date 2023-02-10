@@ -1,0 +1,91 @@
+.Type {
+    font-size: 12px;
+    padding: 2px 4px;
+    border-radius: 4px;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: auto;
+}
+
+.Type:hover {
+    border-color: black;
+}
+
+.Type[data-type="grass"] {
+    background-color: green;
+}
+
+.Type[data-type="fire"] {
+    background-color: red;
+}
+
+.Type[data-type="water"] {
+    background-color: blue;
+}
+
+.Type[data-type="bug"] {
+    background-color: yellow;
+    color: #000;
+}
+
+.Type[data-type="normal"] {
+    background-color: gray;
+}
+
+.Type[data-type="poison"] {
+    background-color: purple;
+}
+
+.Type[data-type="electric"] {
+    background-color: orange;
+}
+
+.Type[data-type="ground"] {
+    background-color: brown;
+}
+
+.Type[data-type="fairy"] {
+    background-color: pink;
+    color: #000;
+}
+
+.Type[data-type="fighting"] {
+    background-color: darkred;
+}
+
+.Type[data-type="psychic"] {
+    background-color: white;
+    color: #000;
+}
+
+.Type[data-type="rock"] {
+    background-color: lightgray;
+    color: #000;
+}
+
+.Type[data-type="ghost"] {
+    background-color: darkgray;
+}
+
+.Type[data-type="ice"] {
+    background-color: lightblue;
+    color: #000;
+}
+
+.Type[data-type="dragon"] {
+    background-color: darkblue;
+}
+
+.Type[data-type="flying"] {
+    background-color: lightgreen;
+    color: #000;
+}
+
+.Type[data-type="dark"] {
+    background-color: darkgreen;
+}
+
+.Type[data-type="steel"] {
+    background-color: lightyellow;
+    color: #000;
+}
